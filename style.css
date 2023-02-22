@@ -18,7 +18,7 @@ margin: 20px;
 }
 .container{
     background-color: var(--White);
-    padding: 20px;
+    padding:20px;
     border-radius: 5%;
     -webkit-border-radius: 5%;
     -moz-border-radius: 5%;
@@ -40,12 +40,11 @@ img{
     color: var(--Dark-blue);
     text-align: center;
     margin-bottom: 16px;
-    padding: 5px;
 }
 .container p{
     color: var(--Grayish-blue);
     text-align: center;
-    padding: 5px 80px;
+    padding: 0px;
 
 }
 
